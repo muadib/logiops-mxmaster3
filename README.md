@@ -10,9 +10,9 @@ Key | Press | Gesture Up | Gesture Down | Gesture Left | Gesture Right
 ----|-------|------------|--------------|---------------|-------------
 Back|Back
 Forward|Forward
-Middle (Mousewheel)|Minimize Window|Window Maximize|Undo Maximize|Toggle Window Tiled Left|Toggle Window Tiled Right
-Extra (under Mousewheel)|Switch DPI (1000,2000,3000,4000)|Volume Up|Volume Down|Brightness Down|Brightness Up
-Thumb|Workspace Window Overview|Workspace Up|Workspace Down|Application Overview
+Middle (Mousewheel)|default|||
+Extra (under Mousewheel)|default||||
+Thumb|Activities overview|Applications||Move to the right virtual desktop|Move to the left virtual desktop
 
 ## CIDS
 
