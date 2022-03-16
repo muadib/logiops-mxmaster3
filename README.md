@@ -2,6 +2,8 @@
 This is a sample config for remapping buttons on a 
 [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3.910-005620.html?page=mx-for-coding) using [PixlOne/logiops](https://github.com/PixlOne/logiops).
 
+The configuration file (logid.gnome.cfg or logid.plasma.cfg) should be placed in /etc and renamed logid.cfg.
+
 ## Gestures
 The MX Master allows to bind gestures to all buttons. To use them just press the button and move the mouse in the desired direction. While using gestures the cursor does not move
 
